@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-kantor/static/css/main.b0327074.css",
+    "main.js": "/react-kantor/static/js/main.8e9bb5a8.js",
+    "index.html": "/react-kantor/index.html",
+    "main.b0327074.css.map": "/react-kantor/static/css/main.b0327074.css.map",
+    "main.8e9bb5a8.js.map": "/react-kantor/static/js/main.8e9bb5a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0327074.css",
+    "static/js/main.8e9bb5a8.js"
+  ]
+}
