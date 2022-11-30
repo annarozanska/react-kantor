@@ -19,7 +19,6 @@ const CurrencyConvertor = () => {
 			.get(URL + `${base}`)
 			.then((res) => {
 				const result = (res.data.rates[0].mid * amount).toFixed(2);
-				console.log(result);
 
 				setInitialState({
 					...initialState,
